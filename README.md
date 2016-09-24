@@ -1,5 +1,3 @@
-My implementation of Free Code Camp's timestamp microservice project using Node.js and Express.
-
-View it online here: https://fcc-timestamp-microservice-mbindewald.c9users.io/
+A simple service that converts unix timestamps to natural language dates (ex: January 1, 2016) and vice versa.
 
 Run with 'node server.js'
